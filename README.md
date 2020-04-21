@@ -10,6 +10,6 @@ Wait for the others before working on Exercise 2
 
 
 ## Exercise 2
-1) pull the branch of the person you are working with 
+1) get the branch of the person you are working with on your machine 
 2) merge their branch into yours 
 3) please decide and solve conflics together
