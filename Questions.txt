@@ -1,5 +1,5 @@
-1) Is a linear regression basically just a correlation?
-
-2) Is a sample size of 30 sufficient for predicting or finding biomarkers? 
-
 3) Is the significance level of .05 is a physical constant in our universe?
+
+4) Is the existence of Jennifer Aniston (granmother) Cells proven without any doubt?
+
+5) Causation is correlation right? 
